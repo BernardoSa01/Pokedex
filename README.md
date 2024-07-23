@@ -9,7 +9,7 @@ Aplicação front-end desenvolvida com objetivo de praticar e reforçar conceito
 </p>
 
 
-- [Acesse o projeto finalizado, online](https://bernardosa01.github.io/)
+- [Acesse o projeto finalizado, online](https://pokedex-brs.vercel.app/)
 <br><br>
 
 <p align="center">
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 
-- <p align="center"> Trata-se de uma Pokedex, criada com HTML, CSS e JavaScript. <br>Para os amantes ( e fãs nostálgicos) do famoso desenho Pokémon, a Pokedex é uma enciclopédia virtual que detém todas as espécies existentes de Pokémon, com pesquisa em tempo real de mais 650 opções. <br/><br/></p>
+- <p align="center"> Trata-se de uma Pokedex, criada com HTML, CSS e JavaScript. <br>Para os amantes ( e fãs nostálgicos ) do famoso desenho Pokémon, a Pokedex é uma enciclopédia virtual que detém todas as espécies existentes de Pokémon, com pesquisa em tempo real de mais 650 opções. <br/><br/></p>
 
 
 ---
